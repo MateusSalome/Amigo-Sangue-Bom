@@ -38,4 +38,4 @@ setaEsquerda.addEventListener('click', setaEsquerdaSlider);
 
 
 
-setInterval(setaDireitaSlider, 4000);
+setInterval(setaDireitaSlider, 2000);
